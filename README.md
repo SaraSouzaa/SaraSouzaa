@@ -1,9 +1,11 @@
-# Olá, sou a Sara! :information_desk_person:
+# Sara Souza
 
 
-### About me
+### Hellooo! :wave: Welcome to my profile
 
-Sou estudante de análise e desenvolvimento de sistemas na FATEC de Taubaté. Estou estudando para me tornar uma desenvolvedora full stack.
+My name is Sara and i'm IT student at FATEC-Taubaté
+
+- 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-souza-bb2ab8182/)](https://www.linkedin.com/in/sara-souza-bb2ab8182/)
 <!--
