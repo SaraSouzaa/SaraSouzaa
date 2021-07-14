@@ -1,4 +1,6 @@
-### Olá, eu sou a Sara!
+# Olá, sou a Sara!
+
+### About me
 
 <!--
 **wittzinha/wittzinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
