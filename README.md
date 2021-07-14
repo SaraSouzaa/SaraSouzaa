@@ -1,4 +1,4 @@
-# Olá, sou a Sara! ![image](https://user-images.githubusercontent.com/81247388/125696551-ec0f18f7-55ba-4369-8e12-27d4f659dc0b.png)
+# Olá, sou a Sara! :information_desk_person:
 
 
 ### About me
