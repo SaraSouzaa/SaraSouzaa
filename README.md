@@ -4,7 +4,7 @@
 ### About me
 
 - :computer: Sou estudante de análise e desenvolvimento de sistemas na FATEC-Taubaté
-- :seedling: Estou aprendendo Phyton, Javascript, HTML e CSS.
+- :seedling: Estou aprendendo Java, Javascript, HTML e CSS.
 
 
 #### Conecte-se comigo:
