@@ -3,8 +3,8 @@
 
 ### About me
 
-- :computer: Sou estudante de análise e desenvolvimento de sistemas na FATEC-Taubaté
-- :seedling: Estou aprendendo Java, Javascript, HTML e CSS.
+- :computer: Sou graduada em análise e desenvolvimento de sistemas na FATEC-Taubaté
+- :seedling: Estudo as tecnologias PHP, Javascript, Node, HTML e CSS.
 
 
 #### Conecte-se comigo:
